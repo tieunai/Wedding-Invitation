@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DAT</Machine>
+    <WindowsUser>lifestream</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8bfbb0ab-5a66-48a6-831c-308b4938a117</PackageIdentityName>
+    <RegisteredManifestChecksum>6B2B1C4644722DE94CE62EF69E9C4A1B9C31042CC8B7289802E123ADD9A5029D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8bfbb0ab-5a66-48a6-831c-308b4938a117_1.0.0.0_neutral__fewq50a9er01e</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8bfbb0ab-5a66-48a6-831c-308b4938a117_fewq50a9er01e!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8bfbb0ab-5a66-48a6-831c-308b4938a117</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=lifestream</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Git\Wedding-Invitation\Wedding\Wedding\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-21T02:07:36.168</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Git\Wedding-Invitation\Wedding\Wedding\bin\Debug\Wedding.exe">
+      <PackagePath>Wedding.exe</PackagePath>
+      <Modified>2014-11-21T03:42:42.998</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Git\Wedding-Invitation\Wedding\Wedding\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T23:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Git\Wedding-Invitation\Wedding\Wedding\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T23:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Git\Wedding-Invitation\Wedding\Wedding\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T23:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Git\Wedding-Invitation\Wedding\Wedding\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T23:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Git\Wedding-Invitation\Wedding\Wedding\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-11-21T01:46:34.030</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Git\Wedding-Invitation\Wedding\Wedding\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-21T03:42:41.882</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Git\Wedding-Invitation\Wedding\Wedding\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-11-21T03:42:41.905</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Git\Wedding-Invitation\Wedding\Wedding\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-21T02:07:35.195</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
